@@ -22,6 +22,5 @@ lib
 ._*
 .Spotlight-V100
 .Trashes
-packages/playground
 packages/examples
-packages/chat
+packages/pg

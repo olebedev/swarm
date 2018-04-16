@@ -54,7 +54,8 @@
     "packages/regular-grammar",
     "packages/ron-grammar",
     "packages/ron-uuid",
-    "packages/ron"
+    "packages/ron",
+    "packages/pg"
   ],
   "scripts": {
     "test": "jest",
